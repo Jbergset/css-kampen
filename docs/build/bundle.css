@@ -1,3 +1,5 @@
-main.svelte-1tky8bj{text-align:center;padding:1em;max-width:240px;margin:0 auto}h1.svelte-1tky8bj{color:#ff3e00;text-transform:uppercase;font-size:4em;font-weight:100}@media(min-width: 640px){main.svelte-1tky8bj{max-width:none}}
+main.svelte-1h6otfa{text-align:center;padding:1em;max-width:240px;margin:0 auto}@media(min-width: 640px){main.svelte-1h6otfa{max-width:none}}
+section.svelte-tw9iuh{margin-top:2rem;display:grid;gap:2rem;grid-template-columns:repeat(auto-fill, minmax(300px, 1fr));grid-auto-rows:230px}button.svelte-tw9iuh{border:none;background-color:blueviolet;color:white;border-radius:10px;padding:1rem;cursor:pointer}button.svelte-tw9iuh:active{background-color:darkblue}
+textarea.svelte-130spv9{transition:2s}textarea.svelte-130spv9:focus{outline:none}
 
 /*# sourceMappingURL=bundle.css.map */
